@@ -1,0 +1,5 @@
+
+Sergio: 3/5 in level 2 (integral squares of 11-29).
+Time spent: 19.037407236
+Sergio: 5/5 in level 1 (simple operations with numbers 2-9).
+Time spent: 8.142114029
